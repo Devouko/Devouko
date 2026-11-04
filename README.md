@@ -1,6 +1,6 @@
 # Hey, I'm James Ouko 
 
-I'm a Senior Software Engineer and VP of Engineering based in **Nairobi, Kenya**. I build systems that actually hold up — from AI-powered road safety platforms to multi-platform hospital management systems. I care about clean architecture, teams that ship with confidence, and technology that solves real problems.
+I'm a Senior Software Engineer and VP of Engineering . I build systems that actually hold up — from AI-powered road safety platforms to multi-platform hospital management systems. I care about clean architecture, teams that ship with confidence, and technology that solves real problems.
 
 ---
 
